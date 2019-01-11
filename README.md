@@ -138,3 +138,4 @@ Run the same hook against multiple botUsers (Clients). Hook responses are not vi
 * Remembers selected channel
 * Emoji support
 * Auto scroll on new messages
+LK
